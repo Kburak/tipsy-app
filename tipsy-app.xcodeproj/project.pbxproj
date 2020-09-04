@@ -26,6 +26,7 @@
 		B55318B525023CE800E131A9 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		B55318B725023CE800E131A9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		B58A425A2502483A005EFB85 /* ResultsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ResultsViewController.swift; sourceTree = "<group>"; };
+		B58A425E2502530A005EFB85 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -42,6 +43,7 @@
 		B553189D25023CC700E131A9 = {
 			isa = PBXGroup;
 			children = (
+				B58A425E2502530A005EFB85 /* README.md */,
 				B55318A825023CC800E131A9 /* tipsy-app */,
 				B55318A725023CC800E131A9 /* Products */,
 			);
